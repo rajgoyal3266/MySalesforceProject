@@ -1,0 +1,15 @@
+
+         Change Set 29-08-2019
+===================================
+
+-- > Send customizations from one organization to another organization by uploading and deploying change sets. Change sets require a deployment connection between the two organizations.
+
+
+    Change Set : -
+
+A change set is a means by which one organization can send customizations to another organization.
+    1.  An outbound change set is a change set created in the organization you are logged into and want to send to another organization.
+    2.  An inbound change set is a change set that has been sent from another organization to the organization you are logged into.
+    3.  Change sets can only contain modifications you can make through the setup menu.
+    4.  Change sets may contain customizations to existing components or new components, but can't be used to delete or rename components.
+ 
